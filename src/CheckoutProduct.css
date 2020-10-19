@@ -1,0 +1,14 @@
+.checkoutProduct {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.checkoutProduct__img {
+  height: 200px;
+  object-fit: contain;
+}
+.checkoutProduct__details {
+  display: flex;
+  flex-direction: column;
+}
